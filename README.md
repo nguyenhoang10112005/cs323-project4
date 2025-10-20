@@ -27,7 +27,8 @@ pip install numpy matplotlib phe csv time random
 ```
 project3/       
 ├── test.ipynb             
-├── runtime_results.csv    
+├── runtime_results.csv   
+├── avg_results.csv  
 └── README.md              
 ```
 - `test.ipynb`: Main notebook that implements all three schemes, runs experiments, and generates graphs.
